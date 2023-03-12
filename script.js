@@ -1,0 +1,1 @@
+document.getElementById("date and time").innerHTML = Date()

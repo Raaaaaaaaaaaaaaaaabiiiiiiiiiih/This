@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(to top, lightblue, pink, aliceblue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Tilt Neon";
+    color: #555;
+}
